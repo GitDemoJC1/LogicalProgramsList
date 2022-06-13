@@ -6,9 +6,14 @@ public class FindStrinngOccurance {
 		System.out.println("FindStrinngOccurance.ma()");
 		System.out.println();
 	}
-	
+
 	private void ma1() {
 		System.out.println("FindStrinngOccurance.ma1()");
+
+	}
+
+	private void ma4() {
+		System.out.println("FindStrinngOccurance.ma4()");
 
 	}
 }
